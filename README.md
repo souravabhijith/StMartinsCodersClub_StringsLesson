@@ -1,3 +1,7 @@
+First learn what is git.
+Install git from https://git-scm.com/
+and run git clone and download this repo.
+
 Solving Order 
 
 #### Level 1 :
